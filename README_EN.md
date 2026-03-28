@@ -2,7 +2,7 @@
 
 ## 1. Open the official Ollama website
 
-Go to the Ollama download page and choose your OS. Ollama officially supports macOS, Windows, and Linux.
+Go to the Ollama download page (https://ollama.com/download/windows) and choose your OS. Ollama officially supports macOS, Windows, and Linux.
 
 ## 2. Download the installer
 
